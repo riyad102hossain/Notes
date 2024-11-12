@@ -12,3 +12,9 @@
    <summary>await</summary>
    Pauses the execution of an async method until the awaited task is complete. This allows other tasks to continue running without blocking.
 </details>
+
+### Thread
+
+<details>
+  A thread is a unit of a program that can execute independently, allowing multiple tasks to run together.
+</details>
