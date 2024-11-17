@@ -21,8 +21,10 @@
 
 ### N-Tier Architecture
 <details>
-N-tier architecture is a software design pattern where an application is divided into multiple tiers. Each tier performs a specific responsibility and interacts with other layers.
+N-tier architecture is a software design pattern where an application is divided into multiple tiers. Each tier performs a specific responsibility and interacts with other layers. 
+  
 #### Layers of N-Tier Architecture
+
 ##### 1. Presentation Tier (UI Layer)
  -  Directly interacts with the user.                    - Displays data and accepts user input.  
 
