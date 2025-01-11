@@ -1,0 +1,1 @@
+﻿// floyd's triangle, pascal triangle, pyramid

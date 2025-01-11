@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "non-repeted-char/1.0.0": {
+        "runtime": {
+          "non-repeted-char.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "non-repeted-char/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
