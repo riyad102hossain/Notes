@@ -35,3 +35,7 @@ N-tier architecture is a software design pattern where an application is divided
  - Stores and retrieves data.                            - Handles database operations.  
 </details>
 
+### What is the purpose of the using statement?
+<details>
+  To ensure proper disposal of resources, like file or database connections.
+</details>
