@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Job Preparation Notes\\interview-coding questions\\factorial\\factorial.csproj": {}
+    "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\factorial\\factorial.csproj": {}
   },
   "projects": {
-    "G:\\Job Preparation Notes\\interview-coding questions\\factorial\\factorial.csproj": {
+    "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\factorial\\factorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Job Preparation Notes\\interview-coding questions\\factorial\\factorial.csproj",
+        "projectUniqueName": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\factorial\\factorial.csproj",
         "projectName": "factorial",
-        "projectPath": "G:\\Job Preparation Notes\\interview-coding questions\\factorial\\factorial.csproj",
+        "projectPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\factorial\\factorial.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "G:\\Job Preparation Notes\\interview-coding questions\\factorial\\obj\\",
+        "outputPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\factorial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Job Preparation Notes\\interview-coding questions\\string-convert\\string-convert.csproj",
+      "projectUniqueName": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\string-convert\\string-convert.csproj",
       "projectName": "string-convert",
-      "projectPath": "G:\\Job Preparation Notes\\interview-coding questions\\string-convert\\string-convert.csproj",
+      "projectPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\string-convert\\string-convert.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "G:\\Job Preparation Notes\\interview-coding questions\\string-convert\\obj\\",
+      "outputPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\string-convert\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

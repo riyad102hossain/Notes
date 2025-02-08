@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Job Preparation Notes\\interview-coding questions\\draw(triangle,pyramid)\\draw(triangle,pyramid).csproj",
+      "projectUniqueName": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\draw(triangle,pyramid)\\draw(triangle,pyramid).csproj",
       "projectName": "draw(triangle,pyramid)",
-      "projectPath": "G:\\Job Preparation Notes\\interview-coding questions\\draw(triangle,pyramid)\\draw(triangle,pyramid).csproj",
+      "projectPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\draw(triangle,pyramid)\\draw(triangle,pyramid).csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "G:\\Job Preparation Notes\\interview-coding questions\\draw(triangle,pyramid)\\obj\\",
+      "outputPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\draw(triangle,pyramid)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

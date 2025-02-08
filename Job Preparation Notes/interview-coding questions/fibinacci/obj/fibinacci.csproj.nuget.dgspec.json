@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Job Preparation Notes\\interview-coding questions\\fibinacci\\fibinacci.csproj": {}
+    "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\fibinacci\\fibinacci.csproj": {}
   },
   "projects": {
-    "G:\\Job Preparation Notes\\interview-coding questions\\fibinacci\\fibinacci.csproj": {
+    "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\fibinacci\\fibinacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Job Preparation Notes\\interview-coding questions\\fibinacci\\fibinacci.csproj",
+        "projectUniqueName": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\fibinacci\\fibinacci.csproj",
         "projectName": "fibinacci",
-        "projectPath": "G:\\Job Preparation Notes\\interview-coding questions\\fibinacci\\fibinacci.csproj",
+        "projectPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\fibinacci\\fibinacci.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "G:\\Job Preparation Notes\\interview-coding questions\\fibinacci\\obj\\",
+        "outputPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\fibinacci\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

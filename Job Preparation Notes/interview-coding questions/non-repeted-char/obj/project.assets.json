@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Job Preparation Notes\\interview-coding questions\\non-repeted-char\\non-repeted-char.csproj",
+      "projectUniqueName": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\non-repeted-char\\non-repeted-char.csproj",
       "projectName": "non-repeted-char",
-      "projectPath": "G:\\Job Preparation Notes\\interview-coding questions\\non-repeted-char\\non-repeted-char.csproj",
+      "projectPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\non-repeted-char\\non-repeted-char.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "G:\\Job Preparation Notes\\interview-coding questions\\non-repeted-char\\obj\\",
+      "outputPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\non-repeted-char\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

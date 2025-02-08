@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Job Preparation Notes\\interview-coding questions\\overloading-overriding\\overloading-overriding.csproj": {}
+    "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\overloading-overriding\\overloading-overriding.csproj": {}
   },
   "projects": {
-    "G:\\Job Preparation Notes\\interview-coding questions\\overloading-overriding\\overloading-overriding.csproj": {
+    "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\overloading-overriding\\overloading-overriding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Job Preparation Notes\\interview-coding questions\\overloading-overriding\\overloading-overriding.csproj",
+        "projectUniqueName": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\overloading-overriding\\overloading-overriding.csproj",
         "projectName": "overloading-overriding",
-        "projectPath": "G:\\Job Preparation Notes\\interview-coding questions\\overloading-overriding\\overloading-overriding.csproj",
+        "projectPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\overloading-overriding\\overloading-overriding.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "G:\\Job Preparation Notes\\interview-coding questions\\overloading-overriding\\obj\\",
+        "outputPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\overloading-overriding\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

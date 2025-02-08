@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Job Preparation Notes\\interview-coding questions\\bubble-sort\\bubble-sort.csproj": {}
+    "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\bubble-sort\\bubble-sort.csproj": {}
   },
   "projects": {
-    "G:\\Job Preparation Notes\\interview-coding questions\\bubble-sort\\bubble-sort.csproj": {
+    "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\bubble-sort\\bubble-sort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Job Preparation Notes\\interview-coding questions\\bubble-sort\\bubble-sort.csproj",
+        "projectUniqueName": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\bubble-sort\\bubble-sort.csproj",
         "projectName": "bubble-sort",
-        "projectPath": "G:\\Job Preparation Notes\\interview-coding questions\\bubble-sort\\bubble-sort.csproj",
+        "projectPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\bubble-sort\\bubble-sort.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "G:\\Job Preparation Notes\\interview-coding questions\\bubble-sort\\obj\\",
+        "outputPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\bubble-sort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

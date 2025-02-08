@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Job Preparation Notes\\interview-coding questions\\prime-number\\prime-number.csproj": {}
+    "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\prime-number\\prime-number.csproj": {}
   },
   "projects": {
-    "G:\\Job Preparation Notes\\interview-coding questions\\prime-number\\prime-number.csproj": {
+    "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\prime-number\\prime-number.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Job Preparation Notes\\interview-coding questions\\prime-number\\prime-number.csproj",
+        "projectUniqueName": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\prime-number\\prime-number.csproj",
         "projectName": "prime-number",
-        "projectPath": "G:\\Job Preparation Notes\\interview-coding questions\\prime-number\\prime-number.csproj",
+        "projectPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\prime-number\\prime-number.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "G:\\Job Preparation Notes\\interview-coding questions\\prime-number\\obj\\",
+        "outputPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\prime-number\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

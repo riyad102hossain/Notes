@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Job Preparation Notes\\interview-coding questions\\String_StringBuilder\\String_StringBuilder.csproj",
+      "projectUniqueName": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\String_StringBuilder\\String_StringBuilder.csproj",
       "projectName": "String_StringBuilder",
-      "projectPath": "G:\\Job Preparation Notes\\interview-coding questions\\String_StringBuilder\\String_StringBuilder.csproj",
+      "projectPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\String_StringBuilder\\String_StringBuilder.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "G:\\Job Preparation Notes\\interview-coding questions\\String_StringBuilder\\obj\\",
+      "outputPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\String_StringBuilder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

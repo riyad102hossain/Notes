@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Job Preparation Notes\\interview-coding questions\\Value_Type&Reference_Type\\Value_Type&Reference_Type.csproj",
+      "projectUniqueName": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\Value_Type&Reference_Type\\Value_Type&Reference_Type.csproj",
       "projectName": "Value_Type&Reference_Type",
-      "projectPath": "G:\\Job Preparation Notes\\interview-coding questions\\Value_Type&Reference_Type\\Value_Type&Reference_Type.csproj",
+      "projectPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\Value_Type&Reference_Type\\Value_Type&Reference_Type.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "G:\\Job Preparation Notes\\interview-coding questions\\Value_Type&Reference_Type\\obj\\",
+      "outputPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\Value_Type&Reference_Type\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

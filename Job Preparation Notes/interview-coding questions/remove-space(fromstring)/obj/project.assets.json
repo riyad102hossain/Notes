@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Job Preparation Notes\\interview-coding questions\\remove-space(fromstring)\\remove-space(fromstring).csproj",
+      "projectUniqueName": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\remove-space(fromstring)\\remove-space(fromstring).csproj",
       "projectName": "remove-space(fromstring)",
-      "projectPath": "G:\\Job Preparation Notes\\interview-coding questions\\remove-space(fromstring)\\remove-space(fromstring).csproj",
+      "projectPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\remove-space(fromstring)\\remove-space(fromstring).csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "G:\\Job Preparation Notes\\interview-coding questions\\remove-space(fromstring)\\obj\\",
+      "outputPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\remove-space(fromstring)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

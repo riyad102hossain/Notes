@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Job Preparation Notes\\interview-coding questions\\2nd-higest-value\\2nd-higest-value.csproj": {}
+    "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\2nd-higest-value\\2nd-higest-value.csproj": {}
   },
   "projects": {
-    "G:\\Job Preparation Notes\\interview-coding questions\\2nd-higest-value\\2nd-higest-value.csproj": {
+    "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\2nd-higest-value\\2nd-higest-value.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Job Preparation Notes\\interview-coding questions\\2nd-higest-value\\2nd-higest-value.csproj",
+        "projectUniqueName": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\2nd-higest-value\\2nd-higest-value.csproj",
         "projectName": "2nd-higest-value",
-        "projectPath": "G:\\Job Preparation Notes\\interview-coding questions\\2nd-higest-value\\2nd-higest-value.csproj",
+        "projectPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\2nd-higest-value\\2nd-higest-value.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "G:\\Job Preparation Notes\\interview-coding questions\\2nd-higest-value\\obj\\",
+        "outputPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\2nd-higest-value\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

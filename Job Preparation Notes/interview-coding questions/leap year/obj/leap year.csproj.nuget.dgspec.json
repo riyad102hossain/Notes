@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Job Preparation Notes\\interview-coding questions\\leap year\\leap year.csproj": {}
+    "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\leap year\\leap year.csproj": {}
   },
   "projects": {
-    "G:\\Job Preparation Notes\\interview-coding questions\\leap year\\leap year.csproj": {
+    "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\leap year\\leap year.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Job Preparation Notes\\interview-coding questions\\leap year\\leap year.csproj",
+        "projectUniqueName": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\leap year\\leap year.csproj",
         "projectName": "leap year",
-        "projectPath": "G:\\Job Preparation Notes\\interview-coding questions\\leap year\\leap year.csproj",
+        "projectPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\leap year\\leap year.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "G:\\Job Preparation Notes\\interview-coding questions\\leap year\\obj\\",
+        "outputPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\leap year\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

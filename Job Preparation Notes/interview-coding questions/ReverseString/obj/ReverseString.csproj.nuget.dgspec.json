@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Job Preparation Notes\\interview-coding questions\\ReverseString\\ReverseString.csproj": {}
+    "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\ReverseString\\ReverseString.csproj": {}
   },
   "projects": {
-    "G:\\Job Preparation Notes\\interview-coding questions\\ReverseString\\ReverseString.csproj": {
+    "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\ReverseString\\ReverseString.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Job Preparation Notes\\interview-coding questions\\ReverseString\\ReverseString.csproj",
+        "projectUniqueName": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\ReverseString\\ReverseString.csproj",
         "projectName": "ReverseString",
-        "projectPath": "G:\\Job Preparation Notes\\interview-coding questions\\ReverseString\\ReverseString.csproj",
+        "projectPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\ReverseString\\ReverseString.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "G:\\Job Preparation Notes\\interview-coding questions\\ReverseString\\obj\\",
+        "outputPath": "D:\\Github\\Notes\\Job Preparation Notes\\interview-coding questions\\ReverseString\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
